@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 699c925e8ffa97345b4fbaec68404293
+timeCreated: 1514140479
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Plane_Floor_White
+    100002: StageLight_12_1
+    100004: StageLight_12_10
+    100006: StageLight_12_11
+    100008: StageLight_12_2
+    100010: StageLight_12_3
+    100012: StageLight_12_4
+    100014: StageLight_12_5
+    100016: StageLight_12_6
+    100018: StageLight_12_7
+    100020: StageLight_12_8
+    100022: StageLight_12_9
+    100024: //RootNode
+    100026: STAGELIGHT_12_GROUP
+    100028: VRayDomeCamera001_360
+    100030: VRayDomeCamera002
+    100032: VRayLight001
+    400000: Plane_Floor_White
+    400002: StageLight_12_1
+    400004: StageLight_12_10
+    400006: StageLight_12_11
+    400008: StageLight_12_2
+    400010: StageLight_12_3
+    400012: StageLight_12_4
+    400014: StageLight_12_5
+    400016: StageLight_12_6
+    400018: StageLight_12_7
+    400020: StageLight_12_8
+    400022: StageLight_12_9
+    400024: //RootNode
+    400026: STAGELIGHT_12_GROUP
+    400028: VRayDomeCamera001_360
+    400030: VRayDomeCamera002
+    400032: VRayLight001
+    2300000: Plane_Floor_White
+    2300002: StageLight_12_1
+    2300004: StageLight_12_10
+    2300006: StageLight_12_11
+    2300008: StageLight_12_2
+    2300010: StageLight_12_3
+    2300012: StageLight_12_4
+    2300014: StageLight_12_5
+    2300016: StageLight_12_6
+    2300018: StageLight_12_7
+    2300020: StageLight_12_8
+    2300022: StageLight_12_9
+    3300000: Plane_Floor_White
+    3300002: StageLight_12_1
+    3300004: StageLight_12_10
+    3300006: StageLight_12_11
+    3300008: StageLight_12_2
+    3300010: StageLight_12_3
+    3300012: StageLight_12_4
+    3300014: StageLight_12_5
+    3300016: StageLight_12_6
+    3300018: StageLight_12_7
+    3300020: StageLight_12_8
+    3300022: StageLight_12_9
+    4300000: Plane_Floor_White
+    4300002: StageLight_12_11
+    4300004: StageLight_12_10
+    4300006: StageLight_12_9
+    4300008: StageLight_12_8
+    4300010: StageLight_12_7
+    4300012: StageLight_12_6
+    4300014: StageLight_12_5
+    4300016: StageLight_12_4
+    4300018: StageLight_12_3
+    4300020: StageLight_12_2
+    4300022: StageLight_12_1
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
